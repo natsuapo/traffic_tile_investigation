@@ -44,6 +44,12 @@ https://t.ssl.ak.dynamic.tiles.virtualearth.net/comp/ch/1321222320323123?mkt=zh-
 
 On the other hand, for larger scale, the bit of mesh code will get larger(similar to meshcode in Japan), e.g. 1321222320323310. This is different from Amap utilizing zoom parameter. 
 
+- The tile system of Bing map: 
+
+```
+https://msdn.microsoft.com/ja-jp/library/bb259689.aspx
+```
+
 
 ## Conclusion: 
 - Get trajectory of Bing map seems to be more feasible than Amap. 
