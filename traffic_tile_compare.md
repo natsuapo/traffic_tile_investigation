@@ -50,6 +50,8 @@ On the other hand, for larger scale, the bit of mesh code will get larger(simila
 https://msdn.microsoft.com/ja-jp/library/bb259689.aspx
 ```
 
+- Bing Map system is in the structure of QuadTree, thus the digit of the number will be the level. 
+
 
 ## Conclusion: 
 - Get trajectory of Bing map seems to be more feasible than Amap. 
